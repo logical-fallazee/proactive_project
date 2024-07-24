@@ -2,7 +2,7 @@ Couldn't make a full e-commerce app in just a few hours, but I sure as heck trie
 
 ---
 
-The one (mostly working page):
+The one (mostly working) page:
 * View all products, in pages
 
 ![image](https://github.com/user-attachments/assets/9b8ddf18-c651-48c8-9107-863df6bf6810)
