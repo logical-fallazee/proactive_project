@@ -1,7 +1,7 @@
 /**
  * @jest-environment node
  */
-import { getProducts, getProductsInPages } from '../api/products/route'
+import { getProducts, getProductsInPages } from './actions'
 
 it('should return products with status 200', async () => {
   const response = await getProducts();
