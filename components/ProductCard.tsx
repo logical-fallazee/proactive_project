@@ -15,7 +15,6 @@ export default function ProductCard({product}) {
 
   function handleInitialClick(e) {
     e.preventDefault();
-    setStockQuantity(stockQuantity - 1);
     setItemQuantity(1);
   }
 
